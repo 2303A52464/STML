@@ -6,6 +6,12 @@ WEEK 2
 https://github.com/2303A52464/STML/blob/main/SML_Ass_(2).ipynb
 
 
+WEEk 3
+https://github.com/2303A52464/STML/blob/main/STML_ASS_3.ipynb
+
+
+
+
 
 
 
