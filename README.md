@@ -10,6 +10,33 @@ WEEk 3
 https://github.com/2303A52464/STML/blob/main/STML_ASS_3.ipynb
 
 
+WEEK 4
+https://github.com/2303A52464/STML/blob/main/STML_ASS_4.ipynb
+
+
+WEEK 5
+https://github.com/2303A52464/STML/blob/main/STML_ASS_5.ipynb
+
+
+WEEK 6
+https://github.com/2303A52464/STML/blob/main/STML_ASS_5.ipynb
+
+
+WEEK 7
+https://github.com/2303A52464/STML/blob/main/SML_ASS_7.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
